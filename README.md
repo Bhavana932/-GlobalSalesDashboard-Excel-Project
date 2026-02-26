@@ -32,25 +32,6 @@ Provide actionable insights using Excel dashboard
 
 📊 KPI Cards (using formulas)
 
-📂 Dataset Details
-
-The dataset contains:
-
-Order Date
-
-Region
-
-Country
-
-Product Category
-
-Sales
-
-Profit
-
-Quantity
-
-Customer Segment
 
 📊 Key Performance Indicators (KPIs)
 
@@ -99,4 +80,3 @@ Explore charts and KPIs
 
 Replace the sample dataset with your own data to customize the dashboard..
 
-📎 Project Status
