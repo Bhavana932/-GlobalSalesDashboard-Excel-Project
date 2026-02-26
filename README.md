@@ -1,4 +1,5 @@
 📊 Global Sales Dashboard – Excel Project
+
 📌 Project Overview
 
 This project is an interactive Global Sales Dashboard built entirely in Microsoft Excel.
